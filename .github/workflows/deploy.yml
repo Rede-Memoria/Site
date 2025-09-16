@@ -23,16 +23,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install
 
       - name: build
         env:
-          NODE_ENV: production
+          BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
-          yarn build
+          npm run build
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
