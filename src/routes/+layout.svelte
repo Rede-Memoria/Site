@@ -35,7 +35,7 @@
   />
   <meta property="og:image:width" content="1024" />
   <meta property="og:image:height" content="1024" />
-  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:locale" content="pt" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
