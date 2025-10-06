@@ -1,6 +1,5 @@
 <script lang="ts">
   import "../app.css";
-  import favicon from "$lib/assets/logo.svg";
 
   let { children } = $props();
 </script>
@@ -30,7 +29,7 @@
     property="og:description"
     content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
   />
-  <meta property="og:image" content={favicon} />
+  <meta property="og:image" content="/assets/logo.svg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:locale" content="pt_BR" />
@@ -46,7 +45,7 @@
     property="twitter:description"
     content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
   />
-  <meta property="twitter:image" content={favicon} />
+  <meta property="twitter:image" content="/assets/logo.svg" />
 
   <!-- WhatsApp specific -->
   <meta property="og:image:type" content="image/svg+xml" />
