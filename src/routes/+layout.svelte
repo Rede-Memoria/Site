@@ -31,7 +31,7 @@
   />
   <meta
     property="og:image"
-    content="https://redememoria.org/_app/immutable/assets/LOGO_AMPULHETA.png"
+    content="https://redememoria.org/assets/LOGO_AMPULHETA.png"
   />
   <meta property="og:image:width" content="1024" />
   <meta property="og:image:height" content="1024" />
@@ -50,7 +50,7 @@
   />
   <meta
     property="twitter:image"
-    content="https://redememoria.org/_app/immutable/assets/LOGO_AMPULHETA.png"
+    content="https://redememoria.org/assets/LOGO_AMPULHETA.png"
   />
 
   <!-- WhatsApp specific -->
