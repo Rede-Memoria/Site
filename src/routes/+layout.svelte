@@ -31,10 +31,10 @@
   />
   <meta
     property="og:image"
-    content="redememoria.org/assets/LOGO_AMPULHETA.png"
+    content="https://redememoria.org/assets/LOGO_AMPULHETA.png"
   />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
+  <meta property="og:image:width" content="1024" />
+  <meta property="og:image:height" content="1024" />
   <meta property="og:locale" content="pt_BR" />
 
   <!-- Twitter -->
@@ -50,11 +50,11 @@
   />
   <meta
     property="twitter:image"
-    content="redememoria.org/assets/LOGO_AMPULHETA.png"
+    content="https://redememoria.org/assets/LOGO_AMPULHETA.png"
   />
 
   <!-- WhatsApp specific -->
-  <meta property="og:image:type" content="image/svg+xml" />
+  <meta property="og:image:type" content="image/png" />
   <meta property="og:site_name" content="Rede Memória" />
 
   <!-- Additional SEO -->
