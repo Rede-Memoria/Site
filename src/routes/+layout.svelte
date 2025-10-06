@@ -20,7 +20,7 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://rede-memoria.github.io/Site/" />
+  <meta property="og:url" content="https://redememoria.org" />
   <meta
     property="og:title"
     content="Rede Memória - Preservação, Educação e Cruzamento de Arquivos"
@@ -29,14 +29,17 @@
     property="og:description"
     content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
   />
-  <meta property="og:image" content="/assets/logo.svg" />
+  <meta
+    property="og:image"
+    content="redememoria.org/assets/LOGO_AMPULHETA.png"
+  />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:locale" content="pt_BR" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://rede-memoria.github.io/Site/" />
+  <meta property="twitter:url" content="https://redememoria.org" />
   <meta
     property="twitter:title"
     content="Rede Memória - Preservação, Educação e Cruzamento de Arquivos"
@@ -45,7 +48,10 @@
     property="twitter:description"
     content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
   />
-  <meta property="twitter:image" content="/assets/logo.svg" />
+  <meta
+    property="twitter:image"
+    content="redememoria.org/assets/LOGO_AMPULHETA.png"
+  />
 
   <!-- WhatsApp specific -->
   <meta property="og:image:type" content="image/svg+xml" />
