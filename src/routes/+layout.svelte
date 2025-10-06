@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 
   <!-- Primary Meta Tags -->
   <title>Rede Memória - Preservação, Educação e Cruzamento de Arquivos</title>
