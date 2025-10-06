@@ -15,7 +15,7 @@
   />
   <meta
     name="description"
-    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
+    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades dos países de língua portuguesa para preservar e reinterpretar nossa memória coletiva."
   />
 
   <!-- Open Graph / Facebook -->
@@ -27,7 +27,7 @@
   />
   <meta
     property="og:description"
-    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
+    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades dos países de língua portuguesa para preservar e reinterpretar nossa memória coletiva."
   />
   <meta
     property="og:image"
@@ -46,7 +46,7 @@
   />
   <meta
     property="twitter:description"
-    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades lusófonas para preservar e reinterpretar nossa memória coletiva."
+    content="Uma iniciativa transnacional que conecta arquivos, instituições e comunidades dos países de língua portuguesa para preservar e reinterpretar nossa memória coletiva."
   />
   <meta
     property="twitter:image"
