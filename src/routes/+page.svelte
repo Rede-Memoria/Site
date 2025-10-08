@@ -15,8 +15,8 @@
     <h2 class="mb-4">Preservação, Educação e Cruzamento de Arquivos</h2>
     <p>
       Uma iniciativa transnacional que conecta arquivos, instituições e
-      comunidades lusófonas para preservar e reinterpretar nossa memória
-      coletiva.
+      comunidades dos países de língua portuguesa para preservar e 
+      reinterpretar nossa memória coletiva.
     </p>
     <p>
       Criamos pontes entre documentos dispersos no Brasil, Portugal e PALOP,
